@@ -1,7 +1,7 @@
-1 Beginners Friendly Projects
+#1 Beginners Friendly Projects
 
-This repository contains a simple project that I created purely for learning and practicing programming concepts.
-The main goal of this project is to improve my understanding of coding basics, problem-solving, and project structure.
+This repository contains simple projects that I created purely for learning and practicing programming concepts.
+The main goal of these projects is to improve my understanding of coding basics, problem-solving, and project structure.
 OBJECTIVES:
  - To practice coding in a hands-on way
  - To explore new concepts and improve my skills
